@@ -42,7 +42,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2018 | Certificação | <a href="http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-AlexSandroFagundesdosSantos-634808.pdf" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=scrum&logoColor=white" target="_blank"></a>
+🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2018 | Certificação 
 🏅 Negotiation Associate - NCN-A™ | SCRUMstudy | 2018 | Certificação
 🏅 Treinamento de Scrum | Bematech S/A | 2013 | Curso
 🏅 10267 Introduction to web development with microsoft visual studio 2010 | Ka Solution | 2013 | Curso
@@ -62,7 +62,7 @@ Descrição   | Instituição   | Ano | Tipo
 <div> 
   <a href="https://www.youtube.com/@AlexFagundesClubeMobile" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/ClubeMobile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandrofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 

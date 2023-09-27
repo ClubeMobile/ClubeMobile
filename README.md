@@ -3,12 +3,25 @@
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Sou Desenvolvedor já faz algum tempinho kkkkk, meus apelidos: M@lex, Fofinho, Homem triste!
+    Sou Desenvolvedor já faz algum tempinho kkkkk, meus apelidos que já tive em algumas empresas: M@lex, Fofinho, Homem triste!
 	apaixonado por tecnologia, com experiência em desenvolvimento de plataformas 
     Web e Desktop, utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
     modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
 	No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (Mundo TOTVS)
+  </p>
+</div>
+
+## 🧑🏽‍💻 Estudando atualmente:
+<div>
+  <p>
+    * Participando da Jornada Python
+  </p>
+  <p>
+    * Fazendo o curso sobre Full-Stack com .NET Web API e Angular + EF Core
+  </p>
+  <p>
+    * Próximo curso: VueJS
   </p>
 </div>
 
@@ -47,7 +60,7 @@ Descrição   | Instituição   | Ano | Tipo
 ## 🌐 Minhas Redes Sociais
   
 <div> 
-  <a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@AlexFagundesClubeMobile" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandrofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -57,6 +70,6 @@ Descrição   | Instituição   | Ano | Tipo
 
 <div align="center">
   <a href="https://github.com/ClubeMobile">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivisconfessor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivisconfessor&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ClubeMobile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClubeMobile&layout=compact&langs_count=7&theme=dark"/>
 </div>

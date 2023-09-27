@@ -69,6 +69,8 @@ Descrição   | Instituição   | Ano | Tipo
   <a href="https://www.instagram.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandrofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://play.google.com/store/apps/developer?id=ClubeMobile" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
+  <a href="https://chrome.google.com/webstore/detail/chatgpt-para-pesquisa-no/dpbmphcflghiapioekmahdeleeikmgjp?hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 
 </div>
 
 ## ⚙️ Estatísticas GitHub

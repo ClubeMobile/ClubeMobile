@@ -1,6 +1,6 @@
 ### Opa, aqui é o Alex, Programador | Coordenador | Lider técnico ! Faço café e miojo 👋
 
-## 🧑🏽‍💻 Um pouquinho sobre mim:
+## 🧑🏽‍💻 Um pouco sobre a mim pessoa:
 <div>
   <p>
     Sou Desenvolvedor já faz algum tempinho kkkkk, meus apelidos que já tive em algumas empresas: M@lex, Fofinho, Homem triste!

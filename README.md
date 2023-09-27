@@ -15,7 +15,8 @@
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
   <p>
-    * Participando da Jornada Python
+    * Participando da Jornada Python   
+	  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   </p>
   <p>
     * Fazendo o curso sobre Full-Stack com .NET Web API e Angular + EF Core

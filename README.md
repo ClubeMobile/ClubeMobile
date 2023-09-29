@@ -12,11 +12,11 @@
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
   <p>	
-	  No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (Mundo TOTVS)
+	  No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
   </p>
   <p>	  
- 	* Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
-  	* Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
+ 	Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
+  	Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
   </p>
 </div>
 

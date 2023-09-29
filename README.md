@@ -36,7 +36,7 @@
  	* Participei da 'Escola de Líderes'
   </p>
   <p>	  
- 	* Outra obs, na Prosoft fiquei + de 15 anos!
+ 	* Curiosidade: Na Prosoft fiquei + de 15 anos!
   </p>	
 </div>
 

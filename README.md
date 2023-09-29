@@ -5,8 +5,7 @@
   <p>
     Sou Desenvolvedor já faz algum tempinho kkkkk
     Apelidos que já tive em algumas empresas que já passei, foram: M@lex, Fofinho, Homem triste!, Alequeca, Alecão. 
-  
-	Apaixonado por tecnologia, com experiência em desenvolvimento com plataformas 
+  	Apaixonado por tecnologia, com experiência em desenvolvimento com plataformas 
     Web e Desktop, utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
     modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).

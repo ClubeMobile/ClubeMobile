@@ -21,14 +21,23 @@
 	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  
   </p>	
   <p>	  
-  	Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
+  	* Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
   </p>	
   <p>	  
- 	Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
+ 	* Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
   </p>
   <p>	  
- 	Migrei de Suporte ao Cliente para área de Desenvolvimento
+ 	* Migrei de Suporte ao Cliente para área de Desenvolvimento
   </p>
+  <p>	  
+ 	* Migrei de nível até Sênior
+  </p>
+  <p>	  
+ 	* Participei da 'Escola de Líderes'
+  </p>
+  <p>	  
+ 	* Outra obs, na Prosoft fiquei + de 15 anos!
+  </p>	
 </div>
 
 ## 🧑🏽‍💻 Estudando atualmente:

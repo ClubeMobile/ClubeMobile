@@ -15,7 +15,10 @@
 	  <a href="https://www.totvs.com" target="_blank"><img height="30" width="70" src="https://www.totvs.com/wp-content/uploads/2019/09/logo.png" target="_blank"></a>
   </p>
   <p>	
-	  No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
+	  * No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
+  </p>
+  <p>	
+	  * Trabalhei em Clientes TOTVS, onde efetuada a supervisão das Consultorias que prestavam serviços ao Cliente! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
   </p>
   <p>	  
 	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  

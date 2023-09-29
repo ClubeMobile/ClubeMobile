@@ -16,8 +16,10 @@
   </p>
   <p>	  
  	Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
-  	Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
   </p>
+  <p>	  
+  	Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
+  </p>	
 </div>
 
 ## 🧑🏽‍💻 Estudando atualmente:

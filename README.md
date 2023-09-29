@@ -15,7 +15,6 @@
 	  No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (Mundo TOTVS)
   </p>
   <p>	  
-  
  	* Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
   	* Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
   </p>
